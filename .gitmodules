@@ -7,3 +7,9 @@
 [submodule "custom/themes/powerlevel9k"]
 	path = custom/themes/powerlevel9k
 	url = git@github.com:bhilburn/powerlevel9k.git
+[submodule "custom/plugins/k"]
+	path = custom/plugins/k
+	url = git@github.com:supercrabtree/k.git
+[submodule "custom/plugins/enhancd"]
+	path = custom/plugins/enhancd
+	url = git@github.com:b4b4r07/enhancd.git
